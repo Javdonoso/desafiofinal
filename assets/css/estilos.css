@@ -1,0 +1,24 @@
+
+
+.nombre:link,.nombre:visited{
+    text-decoration:none;
+    color:#000
+}
+
+.fa {color: #cb3333;}
+
+.fab-github{
+    color: #000;
+}
+
+.fab {color: #0c79e7;
+text-decoration: none;}
+
+.a{color: #000;}
+
+
+
+.caja{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;}
